@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34efa687-67de-4511-bb78-85a3bfe10521" name="Default Changelist" comment="" />
+    <list default="true" id="34efa687-67de-4511-bb78-85a3bfe10521" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/xfz/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/xfz/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +34,7 @@
           <entry key="gitignore" value="19" />
           <entry key="html" value="883" />
           <entry key="js" value="891" />
-          <entry key="py" value="5145" />
+          <entry key="py" value="5174" />
           <entry key="py@xfz" value="51" />
           <entry key="scss" value="12" />
         </counts>
@@ -43,7 +45,7 @@
           <entry key="HTML" value="883" />
           <entry key="JavaScript" value="891" />
           <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="5145" />
+          <entry key="Python" value="5174" />
           <entry key="SCSS" value="12" />
         </counts>
       </usages-collector>
@@ -99,7 +101,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -108,11 +110,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xfz/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="66" column="33" selection-start-line="66" selection-start-column="33" selection-end-line="66" selection-end-column="33" />
+            <state relative-caret-position="185">
+              <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -213,7 +215,6 @@
         <option value="$PROJECT_DIR$/front/templates/cms/login.html" />
         <option value="$PROJECT_DIR$/front/src/css/common/header.scss" />
         <option value="$PROJECT_DIR$/front/templates/news/news_detail.html" />
-        <option value="$PROJECT_DIR$/xfz/settings.py" />
         <option value="$PROJECT_DIR$/utils/captcha/xfzcaptcha.py" />
         <option value="$USER_HOME$/Desktop/dysms_python/dysms_python/demo_sms_send.py" />
         <option value="$PROJECT_DIR$/utils/aliyunsdk/aliyunsms.py" />
@@ -225,6 +226,7 @@
         <option value="$PROJECT_DIR$/apps/xiaofanzhuoauth/forms.py" />
         <option value="$PROJECT_DIR$/utils/aliyunsdk/demo_sms_send.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/xfz/settings.py" />
       </list>
     </option>
   </component>
@@ -243,7 +245,7 @@
       <path value="$PROJECT_DIR$/front/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="135" />
     <option name="y" value="132" />
     <option name="width" value="1418" />
@@ -267,6 +269,11 @@
               <item name="xfz" type="b2602c69:ProjectViewProjectNode" />
               <item name="xfz" type="462c0819:PsiDirectoryNode" />
               <item name="front" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xfz" type="462c0819:PsiDirectoryNode" />
+              <item name="xfz" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -697,13 +704,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xfz/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="66" column="33" selection-start-line="66" selection-start-column="33" selection-end-line="66" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/front/templates/base/front_base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1036">
@@ -731,6 +731,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xfz/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
         </state>
       </provider>
     </entry>
