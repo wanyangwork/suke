@@ -34,7 +34,7 @@
           <entry key="gitignore" value="19" />
           <entry key="html" value="883" />
           <entry key="js" value="891" />
-          <entry key="py" value="5174" />
+          <entry key="py" value="5221" />
           <entry key="py@xfz" value="51" />
           <entry key="scss" value="12" />
         </counts>
@@ -45,7 +45,7 @@
           <entry key="HTML" value="883" />
           <entry key="JavaScript" value="891" />
           <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="5174" />
+          <entry key="Python" value="5221" />
           <entry key="SCSS" value="12" />
         </counts>
       </usages-collector>
@@ -113,8 +113,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xfz/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+            <state relative-caret-position="407">
+              <caret line="144" column="49" lean-forward="true" selection-start-line="144" selection-start-column="49" selection-end-line="144" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -736,8 +736,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xfz/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        <state relative-caret-position="407">
+          <caret line="144" column="49" lean-forward="true" selection-start-line="144" selection-start-column="49" selection-end-line="144" selection-end-column="49" />
         </state>
       </provider>
     </entry>
